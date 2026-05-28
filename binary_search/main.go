@@ -22,5 +22,5 @@ func binary_search(array []int, value int) int {
 }
 
 func main() {
-	fmt.Println(binary_search([]int{1, 2, 3, 4, 5}, 1))
+	fmt.Println(binary_search([]int{1, 2, 3, 4, 5}, 1)) // 0
 }
